@@ -15,5 +15,5 @@ __This is the sandbox project where I'm testing a new technologies & libraries f
 
 ###_Stack of the project would be upgrading, if you know any interesting libraries for React, please notify me:_
 
-- ####_**[LinkedIn](https://www.linkedin.com/in/this-shandy/)**_ 
-- ####_**[Instagram](https://www.instagram.com/dark.shandy/)**_
+- _**[LinkedIn](https://www.linkedin.com/in/this-shandy/)**_ 
+- _**[Instagram](https://www.instagram.com/dark.shandy/)**_
